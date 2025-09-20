@@ -1,6 +1,6 @@
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
-date: 2003-03-10
+title: "Nonlinear Systems"
+date: 2025
 aliases: 
     - /courses/course2/slides4.pdf
     - /courses/course2/slides1.pdf
@@ -15,8 +15,8 @@ aliases:
     - /courses/course2/quiz3.pdf
     - /courses/course2/quiz4.pdf
     - /courses/course1/ps1.pdf
-tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
-author: "Moritz-Maria von Igelfeld"
+tags: ["Nonlinear systems"]
+author: "Juan D. Ramirez"
 description: "This graduate course presents classical results in Romance philology." 
 summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
 cover:
@@ -31,7 +31,7 @@ disableAnchoredHeadings: false
 
 ---
 
-## Introduction
+## Input-Output
 
 This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions: 
 
